@@ -55,7 +55,8 @@ Code should be tested, well formatted, and documented so that it is readable and
 
 To run the application, you need to have Go installed on your system. You can download and install Go.
 
-You also need to have an input JSON file that contains a slice of utterances in `data` folder, each with a speaker, a text, and a timestamp in milliseconds. The input file should be named `input.json` and placed in the same directory as the application.
+You also need to have an input JSON file that contains a slice of utterances in `data` folder, each with a speaker, a text, and a timestamp in milliseconds. The input file should be named `input.json` and placed in the `data` folder. 
+And you can see `output.json` as a result in the `data` folder after running application.
 
 To build and run the application, open a terminal and navigate to the application directory. Then run the following command:
 
