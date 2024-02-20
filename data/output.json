@@ -1,0 +1,14 @@
+{
+"utterances": [
+{
+"speaker": "bob@domain.com",
+"text": "How is the product launch going?",
+"timestampMs": 1705947091584
+},
+{
+"speaker": "alice@domain.com",
+"text": "It is not going well. Thanks for asking.",
+"timestampMs": 1705947112584
+}
+]
+}

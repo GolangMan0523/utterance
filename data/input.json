@@ -1,0 +1,12 @@
+[
+    {
+        "speaker": "bob@domain.com",
+        "text": "How is the product launch going? It is not      ",
+        "timestampMs": 1705947091584
+    },
+    {
+        "speaker": "alice@domain.com",
+        "text": "going well. Thanks for asking.",
+        "timestampMs": 1705947112584
+    }
+]
